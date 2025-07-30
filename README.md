@@ -3,7 +3,7 @@
 BG Buddy is a modern, full-stack web application that enables users to remove image backgrounds quickly and seamlessly. It offers a clean user interface built with **React.js** and **Tailwind CSS**, robust backend support with **Node.js** and **Express.js**, and data persistence using **MongoDB**.
 
 🌐 Live: [bg-buddy-home.vercel.app](https://bg-buddy-home.vercel.app/)  
-📦 GitHub: [Saurabh-101/BG-Buddy](https://github.com/Saurabh-101/BG-Buddy)
+📦 GitHub: [AchyutAnshumalmee/BG-Buddy](https://github.com/AchyutAnshumalee/background-remover)
 
 ---
 
@@ -73,8 +73,8 @@ BG-Buddy/
 
 ```
 bash
-git clone https://github.com/Saurabh-101/BG-Buddy.git
-cd BG-Buddy
+git clone https://github.com/AchyutAnshumalee/background-remover.git
+cd background-remover
 ```
 
 #### 2. Install dependencies
@@ -174,4 +174,4 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-Created by [Saurabh-101](https://github.com/Saurabh-101)
+Created by [AchyutAnshumalee](https://github.com/AchyutAnshumalee)
